@@ -1,3 +1,25 @@
 <DOCTYPE! html> 
 <html>
+
+  <head>
+    <title>
+      BPA Cares
+    </title>  
+  </head>
+  
+  <body>
+  
+    <nav>
+    </nav>
+    
+    <main>
+      <h1>Test 1</h1>
+      <h1>Test 2</h1>
+    </main>
+    
+    <footer>
+    </footer>
+    
+  </body>
+  
 </html>
